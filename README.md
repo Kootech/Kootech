@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kelvin
 - 👀 I’m junior developer 
-- 🌱 I’m currently programming using django, python and javascript
-- 💞️ I’m looking work on backend programming
+- 🌱 I’m a full stack developer using django, python and javascript as programming languages
+- 💞️ I’m 
 - 📫 How to reach me ...
 
 <!---
