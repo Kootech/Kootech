@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Kelvin**
 - 👀 A __full stack__ developer from Kenya
-- 🌱 Tech Stack ![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
+- 🌱 Tech Stack https://img.shields.io/static/v1?label=<LABEL>&message=JavaScript&color=yellow
 - 💞️ I’m 
 - 📫 How to reach me ... email: kitetesh.km@gmail.com
 
