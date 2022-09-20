@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kelvin
-- 👀 I’m junior developer 
-- 🌱 I’m a full stack developer using django, python and javascript as programming languages
+- 👋 Hi, I’m **Kelvin**
+- 👀 A __full stack__ developer from Kenya
+- 🌱 Tech Stack ![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
 - 💞️ I’m 
 - 📫 How to reach me ... email: kitetesh.km@gmail.com
 
